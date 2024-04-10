@@ -1,2 +1,2 @@
 # Nestopia-Cheat-Code-Pack
-.CHT File Database For The Nestopia Emulator
+.XML cheat file database for the Nestopia emulator.
