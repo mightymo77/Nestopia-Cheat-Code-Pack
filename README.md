@@ -3,8 +3,8 @@ This is a cheat code pack for the Nestopia emulator. The goal is to keep this pa
 u/popo31477.
 
 To use this pack:
-- Extract the .xml files to  go your \FCEUX\Cheats.
-- Open a game in FCEUX, go to Options > Cheats > Import.
+- Extract the .xml files to \Nestopia\Cheats.
+- Open a game in Nestopia, go to Options > Cheats > Import.
 - Browse to the \Cheats directory and find the matching .xml file.
 
 
