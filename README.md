@@ -1,17 +1,11 @@
 # Nestopia-Cheat-Code-Pack
-This is a cheat code pack for the Nestopia emulator. The goal is to keep this pack up-to-date and be as meticulous as possible.
+This is a cheat code pack for the Nestopia emulator. The goal is to keep this pack up-to-date and be as meticulous as possible. Please report any mistakes or code requests to Reddit user:
+u/popo31477.
 
-To use the codes:
-1 - Extract the .xml files to  go your \FCEUX\Cheats.
-2 - Open a game in FCEUX, go to Options > Cheats > Import.
-3 - Browse to the \Cheats directory and find the matching .xml file.
-
-
-If you find any mistakes or have codes you think I should add please contact via Reddit:
-u/popo31477
-
-Most up-to-date version is 2024/04/10, 814 xml files.
-
+To use this pack:
+- Extract the .xml files to  go your \FCEUX\Cheats.
+- Open a game in FCEUX, go to Options > Cheats > Import.
+- Browse to the \Cheats directory and find the matching .xml file.
 
 
 Changelog:
