@@ -9,6 +9,9 @@ To use this pack:
 
 
 Changelog:
+- 2024-04-23 - Added 17 new files.
+Added many new codes to existing files, such as: 8 Eyes (USA), Adventure Island (USA), Castlevania III - Dracula's Curse (USA), Contra (USA), Darkwing Duck (USA), Final Fantasy (USA), Flintstones, The - The Rescue of Dino & Hoppy (USA), Gremlins 2 - The New Batch (USA), Guardian Legend, The (USA), Jurassic Park (USA), Kabuki - Quantum Fighter (USA), Legacy of the Wizard (USA), Legend of Zelda, The (USA), Pyramid (USA) (NINA-03) (Unl) (both revisions), Super Mario Bros 2 (both revisions), Rygar (USA) (both revisions), Sky Shark (USA), Solar Jetman - Hunt for the Golden Warpship (USA), Super Mario Bros (World) (including Duck Hunt and World Class Track Meet versions), TaleSpin (USA), Tom & Jerry - The Ultimate Game of Cat and Mouse! (USA), Uninvited (USA), Wizards & Warriors (USA) (both revisions) and Zelda II - The Adventure of Link (USA).
+
 - 2024/04/10 - Uploaded this package to Github - https://github.com/mightymo77/Nestopia-Cheat-Code-Pack
 Added additional Metroid and The Legend Of Zelda codes.
 
